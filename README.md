@@ -1,6 +1,1 @@
-# Terminal-Task
-Hello9999901's Terminal Task
-MACOS ONLY
-A Python 3 program that uses the OS module to streamline command line tasks.
-Can be buggy.
-Works with macOS Catalina.
+A Python Tkinter GUI program designed to simplify the use of the Terminal. macOS Catalina and above should work. In terms of testing, this would probably be Pre-Alpha. Thanks!
